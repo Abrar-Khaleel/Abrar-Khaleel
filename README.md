@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
   <br>
 
@@ -40,8 +40,8 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Social Media & Mental Health** | *Research Project.* Analyzing Gen Y & Gen Z trends to assess mental health impacts. | Python, Pandas |
-| **Student Management System** | A comprehensive system for managing student records with a minimalist UI. | Django, Bootstrap |
-| **E-Commerce Analytics** | Building a Shopify platform with integrated sales tracking logic. | Shopify, Analytics |
+| **Recruitment Management System** | A comprehensive system for streamlining hiring processes with a focused UI. | Django, Bootstrap |
+| **E-Commerce Analytics** | Building a Shopify platform with integrated sales tracking and business logic. | Shopify, Analytics |
 
 <br>
 <hr>
@@ -49,14 +49,14 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abrar-Khaleel&show_icons=true&theme=buefy&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar-Khaleel&layout=compact&theme=buefy&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abrar-Khaleel&show_icons=true&theme=buefy&hide_border=true" height="150" alt="Abrar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar-Khaleel&layout=compact&theme=buefy&hide_border=true" height="150" alt="Abrar's Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com](https://www.linkedin.com/in/abrarkhaleel/">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
