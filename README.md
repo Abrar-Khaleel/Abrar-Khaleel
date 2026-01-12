@@ -49,7 +49,7 @@ I am a <b>BBA Business Analytics</b> graduate currently pursuing my <b>Master of
 <h2>📊 GitHub Stats</h3>
 
   <p>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Abrar-Khaleel&theme=dark&hide_border=false" height="150" alt="Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Abrar-Khaleel&theme=dark&hide_border=false" height="190" alt="Streak" />
   </p>
 
   <br />
